@@ -9,7 +9,7 @@ class LinkedList
 {
     Node head;  // head of list
 }*/
-
+// This is a solution
 class Intersect {
     // Function to find intersection point in Y shaped Linked Lists.
     int intersectPoint(Node head1, Node head2) {
